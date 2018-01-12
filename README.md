@@ -9,6 +9,8 @@ The bagged learner was successful in outperforming the benchmark strategy as wel
 
 See [Bagged Learner Analysis](https://github.com/vjp23/BaggedForestLearner/blob/master/Bagged%20Learner%20Analysis.pdf "Analysis") for a complete quantitative analysis of the results.
 
+![Learner vs Manual Strategy and Benchmark](AAPL_Test_Strategies.png)
+
 ## Running the Code
 To run code, set the switches in run_strategies.py to True for each Part to be run, and then run run_strategies.py. For example, set run_indicators to True to run code for Part 1: Technical Indicators.
 
